@@ -16,4 +16,4 @@
 <li>Redux Toolkit</li>
 <li>Slices</li>
 
-<h1>Proyecto con implementacion de Materia UI y React con Redux</h1>
+<h2>Proyecto con implementacion de Materia UI y React con Redux</h2>
